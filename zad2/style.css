@@ -58,3 +58,11 @@ body {
 .btn-register {
     background-color: #AF1B51
 }
+
+/*Rules styles*/
+
+.rules {
+    background-color: #CFCFCE;
+    padding-top: 30px;
+    text-align: center;
+}
