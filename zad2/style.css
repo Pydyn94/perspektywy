@@ -1,0 +1,60 @@
+/*Main styles*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #CFCFCE;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 700px;
+    width: 100%;
+    background-color: #fff;
+    margin-top: 70px;
+}
+
+/*Header styles*/
+
+.prezentation-set {
+    text-align: center;
+}
+
+.prezentation-set h1 {
+    margin: 30px 0px;
+}
+
+.text-info {
+    padding-top: 17px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.text-info span {
+    font-weight: 600;
+}
+
+.important {
+    color: #F68928;
+    font-weight: 600;
+    padding-top: 17px;
+}
+
+.btn {
+    color: #fff;
+    padding: 10px 40px;
+    margin: 30px 0px;
+    border: 0;
+}
+
+.btn-read {
+    background-color: #F68928;
+}
+
+.btn-register {
+    background-color: #AF1B51
+}
