@@ -34,7 +34,7 @@ body {
     padding-left: 20px;
 }
 
-.text-info span {
+span {
     font-weight: 600;
 }
 
@@ -64,5 +64,26 @@ body {
 .rules {
     background-color: #CFCFCE;
     padding-top: 30px;
+    padding-bottom: 30px;
     text-align: center;
+}
+
+/*FAQ styles*/
+
+.faq {
+    padding: 30px 0px;
+}
+
+.faq h3 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.main-list {
+    padding-left: 50px;
+}
+
+.list-info {
+    list-style-type: none;
 }
