@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #CFCFCE;
+    background-color: #EDEDED;
 }
 
 .container {
@@ -61,8 +61,8 @@ span {
 
 /*Rules styles*/
 
-.rules {
-    background-color: #CFCFCE;
+.information {
+    background-color: #EDEDED;
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
@@ -71,7 +71,7 @@ span {
 /*FAQ styles*/
 
 .faq {
-    padding: 30px 0px;
+    padding: 25px 0px;
 }
 
 .faq h3 {
@@ -86,4 +86,33 @@ span {
 
 .list-info {
     list-style-type: none;
+}
+
+/*Footer styles*/
+
+.my-footer {
+    padding-bottom: 5px;
+}
+
+footer > p {
+    font-size: 14px;
+}
+
+.preview-message {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footer-rodo {
+    font-size: 10px;
+}
+
+.message {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.special-sign {
+    padding-top: 10px;
+    font-size: 12px;
 }
